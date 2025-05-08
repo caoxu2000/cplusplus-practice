@@ -1,0 +1,13 @@
+Welcome to the Pay Roll Program
+************************************************
+This program takes two numbers (payRate & hours)
+and multiplies them to get gross pay
+it then calculates net pay by subtracting 15%
+************************************************
+Please input the pay per hour
+9.50
+Please input the number of hours worked
+40
+The gross pay is $380.00
+The net pay is $323.00
+We hope you enjoyed this program

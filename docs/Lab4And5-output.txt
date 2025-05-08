@@ -1,0 +1,46 @@
+This program will find the average number of hours a day that a student spent programming over a long weekend
+How many students are there?
+3
+Please enter the number of days in a long weekend?
+4
+Please enter the number of hours worked by student 1 on day 1.
+12
+Please enter the number of hours worked by student 1 on day 2.
+4
+Please enter the number of hours worked by student 1 on day 3.
+8
+Please enter the number of hours worked by student 1 on day 4.
+7
+
+The average number of hours per day spent programming by student 1 is 7.75
+
+
+Please enter the number of days in a long weekend?
+3
+Please enter the number of hours worked by student 2 on day 1.
+5
+Please enter the number of hours worked by student 2 on day 2.
+6
+Please enter the number of hours worked by student 2 on day 3.
+8
+
+The average number of hours per day spent programming by student 2 is 6.33333
+
+
+Please enter the number of days in a long weekend?
+5
+Please enter the number of hours worked by student 3 on day 1.
+15
+Please enter the number of hours worked by student 3 on day 2.
+17
+Please enter the number of hours worked by student 3 on day 3.
+19
+Please enter the number of hours worked by student 3 on day 4.
+23
+Please enter the number of hours worked by student 3 on day 5.
+27
+
+The average number of hours per day spent programming by student 3 is 20.2
+
+
+Program ended with exit code: 0

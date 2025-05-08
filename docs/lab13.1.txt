@@ -1,0 +1,24 @@
+The radius of the circle is 8
+The center of the circle is (9, 10)
+The area of the circle is 200.96
+The circumference of the circle is 50.24
+Please enter a radius
+2
+Please enter center x coordinate
+0
+Please enter center y coordinate
+0
+The radius of the circle is 2
+The center of the circle is (0, 0)
+The area of the circle is 12.56
+The circumference of the circle is 12.56
+Please enter a radius
+1
+Please enter center x coordinate
+0
+Please enter center y coordinate
+0
+The radius of the circle is 1
+The center of the circle is (0, 0)
+The area of the circle is 3.14
+The circumference of the circle is 6.28

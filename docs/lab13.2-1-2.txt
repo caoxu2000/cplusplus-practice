@@ -1,0 +1,6 @@
+Please input the length of the side of the square
+8
+The area of the square is 64
+The perimeter of the square is 32
+The area of box1 is 81
+The perimeter of box1 is 36

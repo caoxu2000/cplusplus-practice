@@ -1,0 +1,29 @@
+Patient1's info: 
+First Name: Tom
+Middle Name: Hero
+Last Name: Hanks
+Address: 1 main st
+City: Dublin
+State: California
+ZIP: 94568
+Phone: 925-201-1800
+Emergency Contact Name: Taylor Swift
+Emergency Contact Phone: 925-301-9678
+
+Procedure #1: 
+Procedure name: Physical Exam
+Date: 2024-09-30
+Practitioner: Dr. Irvine
+Charge: 250.00
+
+Procedure #2: 
+Procedure name: X-ray
+Date: 2024-09-30
+Practitioner: Dr. Jamison
+Charge: 500.00
+
+Procedure #3: 
+Procedure name: Blood test
+Date: 2024-09-30
+Practitioner: Dr. Smith
+Charge: 200.00

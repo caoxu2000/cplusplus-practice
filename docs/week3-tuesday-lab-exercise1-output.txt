@@ -1,0 +1,9 @@
+Please input yearly income for Tim McGuiness: 30000
+Name: Tim McGuiness
+Social Security Number: 255871234
+Taxes due for this year: $10500.00
+
+Please input yearly income for John Kane: 60000
+Name: John Kane
+Social Security Number: 278990582
+Taxes due for this year: $17400.00

@@ -1,0 +1,25 @@
+ Main function outer block
+ PI, RATE, radius are active here
+
+Main function first inner block
+PI, RATE, radius, area are active here
+
+AREA FUNCTION
+
+PI, rad active here
+
+The radius = 12.00
+The area = 452.16
+
+Main function second inner block
+PI, RATE, radius, area are active here
+
+CIRCUMFERENCE FUNCTION
+
+PI, rad are active here
+
+The radius = 10.00
+The circumference = 62.80
+
+Main function after all the calls
+PI, RATE, radius, area, circumference are active here

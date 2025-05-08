@@ -1,0 +1,14 @@
+
+
+
+  // The \\ will translate as '\' because it is a special char
+
+  cout<<endl<<endl
+   <<"   +----+     "<<endl
+   <<"   |    |     "<<endl
+   <<"   |    O     "<<endl
+   <<"   |   /|\\   "<<endl
+   <<"   |   / \\   "<<endl
+   <<"   |Your Dead "<<endl
+   <<"  ============"<<endl<<endl;
+

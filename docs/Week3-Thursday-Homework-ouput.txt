@@ -1,0 +1,22 @@
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 1
+Please enter a Student ID: 307
+The number of comparisons were performed: 8
+{307,"Dane Whittemore","Toronto",'M',21,3.8}
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 2
+Please enter a Student Name: Dane Whittemore
+The number of comparisons were performed: 6
+{307,"Dane Whittemore","Toronto",'M',21,3.8}
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 0
+Program ended with exit code: 0

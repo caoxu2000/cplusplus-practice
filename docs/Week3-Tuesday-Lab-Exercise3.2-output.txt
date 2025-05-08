@@ -1,0 +1,6 @@
+Enter the length of a rectangle: 9
+Enter the width of a rectangle: 6
+
+
+The area of the rectangle is 54.00
+The perimeter of the rectangle is 30.00

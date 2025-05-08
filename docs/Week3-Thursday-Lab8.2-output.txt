@@ -1,0 +1,15 @@
+Enter an integer to search for:
+19
+The value 19 is in position number 2 of the list
+
+Enter an integer to search for:
+12
+The value 12 is in position number 8 of the list
+
+Enter an integer to search for:
+19
+The value 19 is in position number 14 of the list
+
+Enter an integer to search for:
+12
+The value 12 is in position number 8 of the list

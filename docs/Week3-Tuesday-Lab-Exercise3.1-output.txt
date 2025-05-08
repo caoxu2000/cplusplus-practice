@@ -1,0 +1,6 @@
+Enter the length of a rectangle: 20
+Enter the width of a rectangle: 30
+
+
+The area of the rectangle is 600.00
+The perimeter of the rectangle is 100.00

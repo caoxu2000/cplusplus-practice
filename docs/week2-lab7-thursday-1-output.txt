@@ -1,0 +1,8 @@
+Please input a grade from 1 to 100, (or -99 to stop)
+90 45 13 56 78 -99
+
+The average of all the grades is 56.4
+
+The highest grade is 90
+
+The lowest grade is 13

@@ -1,0 +1,16 @@
+Algorithm - blueprint. Conditions
+Logical expression
+Any positive value can be considered true
+Relationship
+Decimal equality trick to do it: compare the difference is less than this amount if fabs(x-y) < 0.000001 than it's considered they are equal
+
+100 < 2 < 5 === 100 < 2 false 0 < 5 true
+((x < y) && (y < z))
+
+Constant to the left
+
+*, /, %
+
+No semicolon at the end of if !!!
+
+if else

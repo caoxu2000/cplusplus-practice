@@ -1,0 +1,151 @@
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 2
+3
+{23,"Rachel Jambor","Chicago",'F',22,3.6}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 
+24
+{24,"Mus'ab al-Moustafa","Rawalpindi",'M',23,3.8}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 
+307
+{307,"Dane Whittemore","Toronto",'M',21,3.8}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 30
+8
+Student with Student ID 308 Not found.
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 
+0
+Student with Student ID 0 Not found.
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 1
+
+{1,"Kiana Lor","Suzhou",'F',22,3.5}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 
+104
+{104,"Duncan Kruse","Santa Ana",'M',23,3.7}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+3. Search by first one Gender
+4. Search by last one Gender
+5. Count by age
+6. Search by first by GPA
+7. Search by first by GPA
+0. Exit
+Enter [0-7]: 0
+Program ended with exit code: 0
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 1
+Please enter a student ID: 234
+The number of comparisons were performed: 7
+{234,"Joseph Hazelton","Oakland",'M',22,3.5}
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 1
+Please enter a student ID: 300
+The number of comparisons were performed: 6
+{300,"Christopher Inhulsen","Fort Worth",'M',23,3.1}
+How do you want to search students?
+1. Search by ID Fast
+2. Search by Name Fast
+0. Exit
+Enter [0-2]: 0
+Program ended with exit code: 0
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+0. Exit
+Enter [0-7]: 1
+Please enter a student ID: 307
+{307,"Dane Whittemore","Toronto",'M',21,3.8}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+0. Exit
+Enter [0-7]: 2
+Please enter a student name: Dane Whittemore
+{307,"Dane Whittemore","Toronto",'M',21,3.8}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+0. Exit
+Enter [0-7]: 2
+Please enter a student name: Jennifer Hauge
+{280,"Jennifer Hauge","Los Angeles",'F',23,2.6}
+How do you want to search students?
+1. Search by ID
+2. Search by Name
+0. Exit
+Enter [0-7]: 0
+Program ended with exit code: 0

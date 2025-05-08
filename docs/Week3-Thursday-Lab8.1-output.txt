@@ -1,0 +1,22 @@
+Enter an integer to search for: 
+-19
+The integer -19 is in the 3 position of the list
+Enter an integer to search for: 
+5
+The integer 5 is in the 4 position of the list
+Enter an integer to search for: 
+100
+The integer 100 was not found in the list
+
+Enter an integer to search for: 
+12
+The integer 12 was not found in the list
+Do you want to continue? e
+Enter an integer to search for: 
+12
+The integer 12 was not found in the list
+Do you want to continue? N
+Enter an integer to search for: 
+14
+The integer 14 was not found in the list
+Do you want to continue? n

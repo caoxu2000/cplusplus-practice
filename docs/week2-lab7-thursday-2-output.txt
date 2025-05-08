@@ -1,0 +1,7 @@
+Read In Grades From File Done.
+
+The average of all the grades is 58.2
+
+The highest grade is 90
+
+The lowest grade is 21
